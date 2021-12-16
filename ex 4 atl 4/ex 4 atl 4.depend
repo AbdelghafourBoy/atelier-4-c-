@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1639692893 source:c:\users\msi\desktop\atl 4\ex 4 atl 4\main.cpp
+	<iostream>
+	<list>
+	<string>
+
